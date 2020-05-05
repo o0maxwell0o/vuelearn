@@ -6,7 +6,7 @@
 
 <script>
 export default {
-  name: "appIndex"
+  name: "AppIndex"
 };
 </script>
 
